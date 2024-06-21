@@ -16,3 +16,14 @@ Nuevemente estamos realizando pruebas del readme
 Puedes copiar y pegar este contenido en tu archivo `README.md` y adaptarlo según tus necesidades. ¡Espero que esto te sea de ayuda!
 
 - **Intentando de nuevo
+
+
+Estructuras de Control en JavaScript
+Las estructuras de control en programación son construcciones que permiten alterar el flujo de ejecución del código, es decir, permiten tomar decisiones, repetir acciones y realizar operaciones de forma condicional. Estas estructuras son fundamentales para crear algoritmos complejos y funcionales. En JavaScript, las estructuras de control más comunes incluyen:
+1. Estructuras de Control Condicionales
+Estas estructuras permiten ejecutar bloques de código basados en ciertas condiciones.
+if
+Ejecuta un bloque de código si una condición es verdadera.
+if (condicion) {
+  // código a ejecutar si la condición es verdadera
+}
