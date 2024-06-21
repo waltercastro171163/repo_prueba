@@ -18,3 +18,12 @@ const colores=["amarillo", "azul", "rojo","negro"]
 
 const rta= colores.find( color=> color==="negro" )
 console.log(rta)
+
+
+for (let i = 0; i < 10; i++) {
+    if (i === 5) {
+      continue;
+    }
+    console.log(i);
+  }
+  
