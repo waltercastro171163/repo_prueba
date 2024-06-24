@@ -20,6 +20,7 @@ const rta= colores.find( color=> color==="negro" )
 console.log(rta)
 
 
+//! Revisar como funciona este continue
 for (let i = 0; i < 10; i++) {
     if (i === 5) {
       continue;
