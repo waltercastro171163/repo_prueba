@@ -25,6 +25,21 @@ for (let i = 0; i < 10; i++) {
     if (i === 5) {
       continue;
     }
-    console.log(i);
+    //console.log(i);
   }
   
+
+//   for (let i = 1; i <= 1000; i++) {
+//     if (i.toString().startsWith('2')) {
+//         console.log(i);
+//     }
+// }
+
+  for (let i = 19; i <= 30; i++) {
+    if (i.toString()[0]==='2') {
+        console.log(i);
+        console.log(typeof i.toString())
+    }
+}
+
+
